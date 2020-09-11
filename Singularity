@@ -10,4 +10,4 @@ From: ubuntu:16.04
     export PATH=/usr/games:$PATH
 
 %runscript
-    figlet "JHPCE" | cowsay | lolcat
+    figlet "JHPCE" | lolcat
